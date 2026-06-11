@@ -2,17 +2,16 @@
 
 I'm Khương, a Backend-focused Developer passionate about building scalable and maintainable applications with **ASP.NET Core** and modern software engineering practices.
 
-![OpenToWork](https://img.shields.io/badge/Available%20for-Work-2ea44f?style=for-the-badge)
-![Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-0969da?style=for-the-badge)
-![Junior](https://img.shields.io/badge/Fresher%20%2F%20Junior-.NET%20Developer-8A2BE2?style=for-the-badge)
+![OpenToWork](https://img.shields.io/badge/Available%20for%20Work-2ea44f?style=for-the-badge)
+![Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-0969da?style=for-the-badge)
+![Junior](https://img.shields.io/badge/Fresher%20%2F%20Junior%20.NET%20Developer-8A2BE2?style=for-the-badge)
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 Software Engineering student / Fresher Backend Developer
-* 💻 Focused on building backend systems with **C#**, **ASP.NET Core**, and **Clean Architecture**
-* 🧱 Interested in **System Design**, **API Design**, **Authentication / Authorization**, and **Distributed Systems**
+* 🎓 Software Engineering student / Fresher Developer
+* 💻 Focused on building backend systems with **C#**, **ASP.NET Core**, and **Systems Design**
 * 🚀 Currently building practical projects in **E-commerce** and **Logistics Management**
 * 🔬 Additional experience with **Python**, **FastAPI**, and **Computer Vision**
 
@@ -61,27 +60,3 @@ I'm Khương, a Backend-focused Developer passionate about building scalable and
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/anhkhuong04/Mini-Logistics-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhuong04&repo=Mini-Logistics-Management-System&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anhkhuong04/Workspace-Ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anhkhuong04&repo=Workspace-Ecommerce&theme=tokyonight" />
-  </a>
-</p>
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ly--dinh--anh--khuong-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ly-dinh-anh-khuong-9963b7303)
-[![GitHub](https://img.shields.io/badge/GitHub-anhkhuong04-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anhkhuong04)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:lydinhkhuong04@gmail.com)
-
----
-
-⭐ From [Ly Dinh Anh Khuong](https://github.com/anhkhuong04) with ❤️.
-
