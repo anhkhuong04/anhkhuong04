@@ -13,7 +13,7 @@ I'm Khương, a Backend-focused Developer passionate about building scalable and
 * 🎓 Software Engineering student / Fresher Developer
 * 💻 Focused on building backend systems with **C#**, **ASP.NET Core**, and **Systems Design**
 * 🚀 Currently building practical projects in **E-commerce** and **Logistics Management**
-* 🔬 Additional experience with **Python**, **FastAPI**, and **Computer Vision**
+* 🔬 Additional experience with **Python**, **FastAPI**, **LLM**, **RAG** and **Computer Vision**
 
 ---
 
