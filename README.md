@@ -57,6 +57,7 @@ I'm Khương, a Backend-focused Developer passionate about building scalable and
 ### Additional Experience
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00A67E?style=for-the-badge)
